@@ -17,7 +17,7 @@ public class UserTest {
 	private Board board;
 	private User questioner;
 	private User answerer;
-	private User anonymous;     //Just to improve readability (thanks that nor the questioner neither the answerer are required)
+	private User anonymous;     //Just to improve readability (places where nor the questioner neither the answerer are required)
 	private Question question;
 	private Answer answer;
 
